@@ -1,0 +1,25 @@
+h1.titulo{
+    text-align: center
+}
+p{
+    font-family: serif !important;
+}
+#primer-parrafo{
+    background-color: #cee !important;
+}
+p.importante em{
+    color: #933 !important;
+}
+a{
+    outline: 1px solid #333;
+}
+p.fuente{
+    opacity: 100% !important;
+}
+p:not([id]) {
+    text-shadow: none;
+}
+.complicado{
+    font-weight: bold;
+    opacity: 100%;
+}
